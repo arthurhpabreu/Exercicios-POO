@@ -1,0 +1,7 @@
+C:\Users\joaog\source\repos\Ex3.4_LAB_3\Ex3.4_LAB_3\bin\Debug\Ex3.4_LAB_3.exe.config
+C:\Users\joaog\source\repos\Ex3.4_LAB_3\Ex3.4_LAB_3\bin\Debug\Ex3.4_LAB_3.exe
+C:\Users\joaog\source\repos\Ex3.4_LAB_3\Ex3.4_LAB_3\bin\Debug\Ex3.4_LAB_3.pdb
+C:\Users\joaog\source\repos\Ex3.4_LAB_3\Ex3.4_LAB_3\obj\Debug\Ex3.4_LAB_3.csprojResolveAssemblyReference.cache
+C:\Users\joaog\source\repos\Ex3.4_LAB_3\Ex3.4_LAB_3\obj\Debug\Ex3.4_LAB_3.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\Ex3.4_LAB_3\Ex3.4_LAB_3\obj\Debug\Ex3.4_LAB_3.exe
+C:\Users\joaog\source\repos\Ex3.4_LAB_3\Ex3.4_LAB_3\obj\Debug\Ex3.4_LAB_3.pdb
